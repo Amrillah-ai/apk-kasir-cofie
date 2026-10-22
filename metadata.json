@@ -1,0 +1,6 @@
+{
+  "name": "KopiKula POS & Cafe Management System",
+  "description": "Sistem kasir kafe modern dengan laporan penjualan real-time, integrasi QRIS & pembayaran digital, manajemen inventaris bahan baku otomatis, analitik multi-cabang, dan ekspor Excel/PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
